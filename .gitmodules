@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cyrillagger/scdiffcom
-	shallow = true
-	registered = true
